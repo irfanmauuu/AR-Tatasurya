@@ -1,0 +1,29 @@
+Aphelion TAB 152,100,000 km TAB (94,500,000 mi) 
+Perihelion TAB 147,095,000 km TAB (91,401,000 mi) 
+Semi-major axis TAB ,598,023 km (92,955,902 mi) 
+Eccentricity TAB 0.0167086 
+Orbital period TAB 365.256363004 d  
+Average orbital speed TAB 29.78 km/s (18.50 mi/s) (107,200 km/h  
+Mean anomaly TAB 358.617° 
+Inclination TAB 7.155° to the Sun's equator 
+1.57869°to invariable plane 
+0.00005° to J2000 ecliptic 
+Longitude of ascending node TAB -11.26064° to J2000 ecliptic 
+Argument of perihelion TAB 114.20783° 
+Satellites TAB One natural satellite 
+
+Earth in Greek: Gaia, or in Latin: Terra is the third planet from the Sun,
+ the densest planet in the Solar System, the largest of the Solar System's
+ four terrestrial planets, and the only astronomical object known to harbour life.
+ 
+According to evidence from radiometric dating and other sources,
+ Earth was formed about 4.54 billion years ago. Earth gravitationally
+ interacts with other objects in space, especially the Sun and the Moon.
+ During one orbit around the Sun, Earth rotates about its own axis 366.26 times,
+ creating 365.26 solar days or one sidereal year. Earth's axis of rotation
+ is tilted 23.4° away from the perpendicular of its orbital plane, producing seasonal
+ variations on the planet's surface with a period of one tropical year (365.24 solar days).
+ 
+ The Moon is Earth's only permanent natural satellite. Its gravitational interaction
+ with Earth causes ocean tides, stabilizes the orientation of Earth's rotational axis,
+ and gradually slows Earth's rotational rate.
